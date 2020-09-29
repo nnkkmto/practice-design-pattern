@@ -1,4 +1,4 @@
-# Adapter (Wrapper)
+# Template Method
 
 ## 概要
 
